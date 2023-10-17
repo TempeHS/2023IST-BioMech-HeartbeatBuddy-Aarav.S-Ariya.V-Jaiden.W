@@ -1,5 +1,5 @@
 int loudness;
-
+unsigned static int myLoudPin = 0;
 void setup()
 {
     Serial.begin(9600);
