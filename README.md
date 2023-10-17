@@ -12,7 +12,19 @@ Located on the front of the casing, is an OLED screen which will output informat
 ## Pictorial
 [HeartBeat Buddy Pictorial](https://github.com/TempeHS/2023IST-BioMech-HeartbeatBuddy-Aarav.S-Ariya.V-Jaiden.W/blob/main/.workingDocuments/Heart%20Monitor%20Lanyard%20Pictorial.jpg)
 
-## Roles
+## Functions 
+### Ear Clip Heart Rate Sensor - Digital Pulse
+The ear clip heart rate sensor will detect the heart rate of the user and inform them of their heart rate through the OLED screen. The heart rate is measured in BPM.
+### Loudness Sensor - Analog
+Detects the loudness of an environment. The sensor will allow the user to monitor the loudness of their environment which is particularly important for patients suffering from cardiovascular disease as noise is a contributing factor to stress. The loudness of an environment triggers a reaction in the body which, with over exposure to loud environments, can be a factor that worsens cardiovascular diseases.  
+### GSR (Galvanic Skin Response) Sensor - Analog
+A method of measuring electrica conductance of the skin, a reflection of human emotional activity. The GSR measures the levels of electrical current conducted through skin. It is measured through the levels of perspiration on the skin, allowing greater conductance of electrical currents. 
+### Buzzer - Digital Pulse
+Buzzers are an output method that output simple sounds when activated. 
+### OLED Screen - I2C
+A 128×64 dot resolution screen with a compact design for low power consumption. The OLED screen will display information gathered from various sensors and inform the user.
+
+## Assigned Roles
 **Aarav**
 - [ ] Ear clip Heart Rate Monitor
 - [ ] Buzzer 
