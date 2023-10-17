@@ -47,17 +47,17 @@
     void interrupt()
     {
         temp[counter]=millis();
-        Serial.println(counter,DEC);
-        Serial.println(temp[counter]);
+        //Serial.println(counter,DEC);
+        //Serial.println(temp[counter]);
         switch(counter)
         {
             case 0:
                 sub=temp[counter]-temp[20];
-                Serial.println(sub);
+                //Serial.println(sub);
                 break;
             default:
                 sub=temp[counter]-temp[counter-1];
-                Serial.println(sub);
+                //Serial.println(sub);
                 break;
         }
         if(sub>max_heartpluse_duty)//set 2 seconds as max heart pluse duty
