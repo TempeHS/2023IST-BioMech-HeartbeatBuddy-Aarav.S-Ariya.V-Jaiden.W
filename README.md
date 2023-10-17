@@ -12,4 +12,12 @@ Located on the front of the casing, is an OLED screen which will output informat
 ## Pictorial
 [HeartBeat Buddy Pictorial](https://github.com/TempeHS/2023IST-BioMech-HeartbeatBuddy-Aarav.S-Ariya.V-Jaiden.W/blob/main/.workingDocuments/Heart%20Monitor%20Lanyard%20Pictorial.jpg)
 
+## Roles
+**Aarav**
+- Ear clip Heart Rate Monitor
 
+**Jaiden**
+- Loudness Sensor
+
+  **Ariya**
+  - GSR (Galvanic Skin Response) sensor
