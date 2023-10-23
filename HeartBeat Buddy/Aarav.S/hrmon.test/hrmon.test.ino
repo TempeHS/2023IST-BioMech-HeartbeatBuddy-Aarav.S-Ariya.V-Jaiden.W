@@ -1,4 +1,4 @@
-    // Function: This program can be used to measure heart rate, the lowest pulse in the program be set to 30.
+      // Function: This program can be used to measure heart rate, the lowest pulse in the program be set to 30.
     //         Use an external interrupt to measure it.
     // Hardware: Grove - Ear-clip Heart Rate Sensor, Grove - Base Shield, Grove - LED
     // Arduino IDE: Arduino-1.0
