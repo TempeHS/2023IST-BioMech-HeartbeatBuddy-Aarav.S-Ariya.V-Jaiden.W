@@ -36,3 +36,10 @@ A 128×64 dot resolution screen with a compact design for low power consumption.
   **Ariya**
 - [ ] GSR (Galvanic Skin Response) sensor
 - [ ] Design of Product 
+
+## Sensor Testing 
+- [x] Loudness sensor successful
+- [x] GSR sensor successful 
+- [x] Ear clip Heart Rate Monitor successful
+- [ ] OLED screen test successful
+- [ ] Buzzer test successful 
