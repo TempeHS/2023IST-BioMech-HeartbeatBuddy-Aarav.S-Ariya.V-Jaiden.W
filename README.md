@@ -41,5 +41,5 @@ A 128×64 dot resolution screen with a compact design for low power consumption.
 - [x] Loudness sensor successful
 - [x] GSR sensor successful 
 - [x] Ear clip Heart Rate Monitor successful
-- [ ] OLED screen test successful
-- [ ] Buzzer test successful 
+- [x] OLED screen test successful
+- [x] Buzzer test successful 
