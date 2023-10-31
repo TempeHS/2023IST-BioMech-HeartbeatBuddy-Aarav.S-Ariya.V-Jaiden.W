@@ -42,4 +42,10 @@ A 128×64 dot resolution screen with a compact design for low power consumption.
 - [x] GSR sensor successful 
 - [x] Ear clip Heart Rate Monitor successful
 - [x] OLED screen test successful
-- [x] Buzzer test successful 
+- [x] Buzzer test successful
+
+## Sensor Notes
+
+### Heart Rate Monitor
+Heart rate monitor only works on Arduino Uno Board R3 (older version).
+Sensor has not been reading accurate data. 
