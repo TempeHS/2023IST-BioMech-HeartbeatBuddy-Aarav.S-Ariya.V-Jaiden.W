@@ -1,4 +1,6 @@
+
     // Function: This program can be used to measure heart rate, the lowest pulse in the program be set to 30.
+      // Function: This program can be used to measure heart rate, the lowest pulse in the program be set to 30.
     //         Use an external interrupt to measure it.
     // Hardware: Grove - Ear-clip Heart Rate Sensor, Grove - Base Shield, Grove - LED
     // Arduino IDE: Arduino-1.0
@@ -23,7 +25,7 @@
         pinMode(LED, OUTPUT);
         Serial.begin(9600);
         Serial.println("Please ready your chest belt.");
-        delay(5000);
+        delay(1000);
         arrayInit();
         Serial.println("Heart rate test begin.");
         attachInterrupt(0, interrupt, RISING);//set interrupt 0,digital port 2
@@ -37,7 +39,7 @@
     {
      if(data_effect)
         {
-          heart_rate=1200000/(temp[20]-temp[0]);//60*20*1000/20_total_time 
+          heart_rate=120000/(temp[20]-temp[0]);//60*20*1000/20_total_time 
           Serial.print("Heart_rate_is:\t");
           Serial.println(heart_rate);
         }
@@ -47,8 +49,8 @@
     void interrupt()
     {
         temp[counter]=millis();
-        Serial.println(counter,DEC);
-        Serial.println(temp[counter]);
+        //Serial.println(counter,DEC);
+        //Serial.println(temp[counter]);
         switch(counter)
         {
             case 0:
