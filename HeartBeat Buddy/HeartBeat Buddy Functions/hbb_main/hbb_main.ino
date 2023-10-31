@@ -1,6 +1,6 @@
-#include <"loudness_function.ino">
+#include "loudness_function.h"
 
-loudness_setup ()
+void loudness_setup ();
 
 void setup (){
 Serial.begin(9600);

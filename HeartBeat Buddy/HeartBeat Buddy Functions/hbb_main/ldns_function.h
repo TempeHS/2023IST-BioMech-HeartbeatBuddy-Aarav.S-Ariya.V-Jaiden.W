@@ -1,6 +1,6 @@
-
-void loudness_setup (){
   int loudness;
+void loudness_setup (){
+
   unsigned static int myLoudPin = 0;
 }
 
