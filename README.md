@@ -26,16 +26,16 @@ A 128×64 dot resolution screen with a compact design for low power consumption.
 
 ## Assigned Roles
 **Aarav**
-- [ ] Ear clip Heart Rate Monitor
-- [ ] Buzzer 
+- [x] Ear clip Heart Rate Monitor
+- [x] Buzzer 
 
 **Jaiden**
-- [ ] Loudness Sensor
-- [ ] OLED screen 
+- [x] Loudness Sensor
+- [x] OLED screen 
 
 **Ariya**
-- [ ] GSR (Galvanic Skin Response) sensor
-- [ ] Read Me
+- [x] GSR (Galvanic Skin Response) sensor
+- [x] Read Me
 
 ## Sensor Testing 
 - [x] Loudness sensor successful
@@ -49,3 +49,14 @@ A 128×64 dot resolution screen with a compact design for low power consumption.
 ### Heart Rate Monitor
 Heart rate monitor only works on Arduino Uno Board R3 (older version).
 Sensor has not been reading accurate data. 
+
+## Code Integration Process
+### 01/11/2023
+#### Jaiden
+- Created functions file for loudness sensor
+
+#### Aarav
+- Problem solving code for sensors to gather more accurate data
+
+#### Ariya
+- Added more information to README
