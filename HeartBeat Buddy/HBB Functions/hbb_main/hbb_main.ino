@@ -2,7 +2,7 @@
 #include "GSR_function.h"
 
 void loudness_setup ();
-void GSRsetup ();
+
 
 
 void setup (){
@@ -12,5 +12,5 @@ Serial.print ("SM Working");
 
 void loop (){
 loudness_data ();
-GSR_data ();
+GSR_Data ();
 }
