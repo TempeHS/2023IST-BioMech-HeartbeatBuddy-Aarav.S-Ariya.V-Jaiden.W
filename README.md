@@ -71,3 +71,10 @@ Sensor has not been reading accurate data.
 #### Ariya
 - Update ReadMe
 - GSR Sensor code
+
+### 14/11/2023
+#### Aarav
+- Intergrating Heart Rate Ear Clip Monitor code into main
+
+#### Ariya
+- Intergrated GSR sensor function into main
