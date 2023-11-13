@@ -60,3 +60,14 @@ Sensor has not been reading accurate data.
 
 #### Ariya
 - Added more information to README
+
+### 13/11/2023
+#### Jaiden 
+- Working on functions for loudness sensor
+
+#### Aarav 
+- Decoding Heart Rate Ear clip Monitor for accurate readings
+
+#### Ariya
+- Update ReadMe
+- GSR Sensor code
