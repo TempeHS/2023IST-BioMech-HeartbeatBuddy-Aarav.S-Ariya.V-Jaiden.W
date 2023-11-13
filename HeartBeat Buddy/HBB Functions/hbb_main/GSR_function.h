@@ -1,9 +1,7 @@
   int sensorValue = 0;
   int gsr_average = 0;
-
-void GSRsetup () {
  const int GSR = A0;
-}
+
 
 void GSR_Data() {
   long sum = 0;
