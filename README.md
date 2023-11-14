@@ -72,7 +72,7 @@ Sensor has not been reading accurate data.
 - Update ReadMe
 - GSR Sensor code
 
-### 14/11/2023
+### 14/11/2023 - Sensor Change 
 #### Aarav
 - Intergrating Heart Rate Ear Clip Monitor code into main
 
