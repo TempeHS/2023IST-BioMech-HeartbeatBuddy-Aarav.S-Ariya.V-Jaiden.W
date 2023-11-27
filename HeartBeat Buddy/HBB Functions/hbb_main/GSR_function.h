@@ -12,5 +12,6 @@ void GSR_Data() {
     delay(5);
   }
   gsr_average = sum / 10;
-  Serial.println(gsr_average);
+  Serial.println("gsr: ");
+  Serial.print(gsr_average);
 }
