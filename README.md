@@ -78,3 +78,8 @@ Sensor has not been reading accurate data.
 
 #### Ariya
 - Intergrated GSR sensor function into main
+
+### 28/11/2023
+Testing and decoding Heart Rate Monitor code as the sensor was changed due to previous faulty Ear clip heart rate monitor.
+### 29/11/2023
+Intergrating all components of Heart Beat Buddy including: buzzer, OLED, Heart Rate monitor, GSR and Loudness sensor. Testing each sensor and component then began incorporating logic into code.
