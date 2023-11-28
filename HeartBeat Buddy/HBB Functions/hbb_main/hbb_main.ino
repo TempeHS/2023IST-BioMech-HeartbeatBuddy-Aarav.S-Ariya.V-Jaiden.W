@@ -11,6 +11,7 @@
 void setup (){
 Serial.begin(9600);
 Serial.print ("SM Working");
+
 hrs_setup ();
 OLED_setup ();
 
@@ -22,3 +23,10 @@ GSR_Data ();
 hrs_data ();
 OLED_data ();
 }
+
+
+
+
+
+
+  
