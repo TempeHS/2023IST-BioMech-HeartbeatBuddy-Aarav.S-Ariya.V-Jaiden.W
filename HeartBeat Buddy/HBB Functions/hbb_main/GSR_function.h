@@ -1,6 +1,6 @@
   int sensorValue = 0;
   int gsr_average = 0;
- const int GSR = A0;
+ const int GSR = A3;
 
 
 void GSR_Data() {
@@ -13,5 +13,5 @@ void GSR_Data() {
   }
   gsr_average = sum / 10;
   Serial.println("gsr: ");
-  Serial.print(gsr_average);
+  Serial.println(gsr_average);
 }

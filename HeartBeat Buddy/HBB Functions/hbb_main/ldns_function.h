@@ -3,7 +3,7 @@
 
 void loudness_data () {
     loudness = analogRead(0);
-    Serial.println("loud: ");
-    Serial.print(loudness);
+    Serial.println("Loudness is:");
+    Serial.println(loudness);
     delay(200);
 }
