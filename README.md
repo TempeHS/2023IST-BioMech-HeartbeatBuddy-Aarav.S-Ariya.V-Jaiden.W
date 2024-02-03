@@ -10,7 +10,7 @@ Contained in the casing of the product, is a GSR sensor to detect Michelle's str
 Located on the front of the casing, is an OLED screen which will output information gathered from the sensors. A buzzer will be loacted on the side of the casing, that would buzz to warn Michelle when she is in a highly stressful environment. The buzzer will be activated in an extreme situation where Michelle would be at a very high risk of a heart attack depending on the readings from each sensor. 
 
 ## Pictorial
-[HeartBeat Buddy Pictorial](https://github.com/TempeHS/2023IST-BioMech-HeartbeatBuddy-Aarav.S-Ariya.V-Jaiden.W/blob/main/.workingDocuments/Heart%20Monitor%20Lanyard%20Pictorial.jpg)
+![HeartBeat Buddy Pictorial](https://github.com/TempeHS/2023IST-BioMech-HeartbeatBuddy-Aarav.S-Ariya.V-Jaiden.W/blob/main/.workingDocuments/Heart%20Monitor%20Lanyard%20Pictorial.jpg)
 
 ## Functions 
 ### Ear Clip Heart Rate Sensor - Digital Pulse
